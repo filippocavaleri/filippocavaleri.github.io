@@ -32,8 +32,9 @@ This paper investigates the heterogeneity in investors’ preferences for non-pe
 This paper examines how heterogeneity in investment horizons determines the demand for safe assets, bidding strategies in auctions, and post-auction price dynamics. We model a uniform-price double auction with resale where long-term investors hold assets to maturity, while dealer banks distribute the asset in secondary markets. Pure private (common) values emerge when only long-term investors (dealers) participate. Using unique data on Swiss Treasury bond auctions revealing bidders' identities, our empirical findings support key predictions: (1) substantial heterogeneity in demand schedules, with steeper demand curves for dealer banks; (2) Dealer banks' demand becomes steeper with increased demand risk and bid dispersion; and (3) demand elasticity positively predicts post-auction returns. </details>
 
 
-
-## Work in Progress
-3. <span style="color:#0a81e2; font-weight:bold;"> Swiss Treasury Bond Auctions: An Update </span> with Marco Gortan, Angelo Ranaldo and Enzo Rossi  <br>
-    <span style="font-size:14px"> Draft coming soon </span>
+## Policy Papers
+1. <span style="color:#0a81e2; font-weight:bold;"> Swiss Treasury Bond Auctions: An Update </span> with Marco Gortan, Angelo Ranaldo and Enzo Rossi  <br>  \[[SNB](https://www.snb.ch/en/publications/research/economic-studies/2025/economic_studies_2025_13)\]
+   <span style="font-size:14px"> This version: March 2025 </span>
+    <details><summary>Abstract</summary>
+Ranaldo and Rossi (2016) presented data on the history of Swiss treasury bond auctions that covered the period from 1980, when the auction mechanism was implemented, to 2014. In this study, we extend the set of observations until 2023 and provide additional information for the entire sample. In addition to its length, our dataset stands out in terms of granularity. This information includes, among other information, the details of the auction process, the underlying rules and their changes over time, the demand schedules per bidder and their identity, awarded sums, yields and maturities at issuance. </details>
     
