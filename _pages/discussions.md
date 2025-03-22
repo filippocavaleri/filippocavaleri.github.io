@@ -12,7 +12,7 @@ author_profile: true
 
 ### 2025 Society of Government Economist (SGE)
 
-2.  <span style="color:#0a81e2; font-weight:bold;"> Asymmetric Information and Bidding Behavior in Failed Bank Auctions  </span> \[[PDF](../files/CavaleriFilippo_CYAGT.pdf)\]<br>
+2.  <span style="color:#0a81e2; font-weight:bold;"> Asymmetric Information and Bidding Behavior in Failed Bank Auctions  </span> \[[Slides](../files/CavaleriFilippo_CYAGT.pdf)\]<br>
    <span style="font-size:14px"> George C. and Shoukry, G. (2024) </span>
  
 
