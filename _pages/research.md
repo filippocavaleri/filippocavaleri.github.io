@@ -33,7 +33,7 @@ This paper examines how heterogeneity in investment horizons determines the dema
 
 
 ## Policy Papers
-1. <span style="color:#0a81e2; font-weight:bold;"> Swiss Treasury Bond Auctions: An Update </span> with Marco Gortan, Angelo Ranaldo and Enzo Rossi  <br>  \[[SNB](https://www.snb.ch/en/publications/research/economic-studies/2025/economic_studies_2025_13)\]
+1. <span style="color:#0a81e2; font-weight:bold;"> Swiss Treasury Bond Auctions: An Update </span> with Marco Gortan, Angelo Ranaldo and Enzo Rossi \[[SNB](https://www.snb.ch/en/publications/research/economic-studies/2025/economic_studies_2025_13)\]  <br>
    <span style="font-size:14px"> This version: March 2025 </span>
     <details><summary>Abstract</summary>
 Ranaldo and Rossi (2016) presented data on the history of Swiss treasury bond auctions that covered the period from 1980, when the auction mechanism was implemented, to 2014. In this study, we extend the set of observations until 2023 and provide additional information for the entire sample. In addition to its length, our dataset stands out in terms of granularity. This information includes, among other information, the details of the auction process, the underlying rules and their changes over time, the demand schedules per bidder and their identity, awarded sums, yields and maturities at issuance. </details>
