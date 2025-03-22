@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2025 Midwest Finance Association (MFA)
 
-2. <span style="color:#0a81e2; font-weight:bold;">  The Market for Interest Rate Risk Sharing: Quantities and Prices </span> \[[Slides](../files/2025MFA.pdf)\] <br>
+2. <span style="color:#0a81e2; font-weight:bold;">  The Market for Interest Rate Risk Sharing: Quantities and Asset Prices </span> \[[Slides](../files/2025MFA.pdf)\] <br>
   <span  style="font-size:14px"> Umang Khetan, Jian Li, Ioana Neamtu and Ishita Sen (2025) </span>
 
 ### 2025 Society of Government Economist (SGE)
