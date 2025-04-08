@@ -10,7 +10,7 @@ author_profile: true
 ### 2025 Eastern Finance Association (EFA)
 
 03. <span style="color:#0a81e2; font-weight:bold;">  Incentives to Lose: Disclosure of Cover Bids in OTC Markets </span> \[[Slides](../files/2025EFA.pdf)\] <br>
-  <span  style="font-size:14px"> Andrey Ordin and Ruslan Sverchkov (2025) </span>
+  <span  style="font-size:14px"> Andrey Ordin and Ruslan Sverchkov (2024) </span>
   
 ### 2025 Midwest Finance Association (MFA)
 
