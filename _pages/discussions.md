@@ -29,7 +29,7 @@ author_profile: true
   <li>
     <span style="color:#0a81e2; font-weight:bold;">Incentives to Lose: Disclosure of Cover Bids in OTC Markets</span> 
     [<a href="../files/2025EFA.pdf">Slides</a>]<br>
-    <span style="font-size:14px">Andrey Ordin and Ruslan Sverchkov (2025)</span>
+    <span style="font-size:14px">Andrey Ordin and Ruslan Sverchkov (2024)</span>
   </li>
 </ol>
 
