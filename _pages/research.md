@@ -27,7 +27,8 @@ This paper investigates the heterogeneity in investors’ preferences for non-pe
 
 
 3. <span style="color:#0a81e2; font-weight:bold;"> The Demand for Safe Assets </span> with Angelo Ranaldo and Enzo Rossi \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5061707)\] \[[SFI](https://www.sfi.ch/en/publications/n-24-109-the-demand-for-safe-assets)\] \[[SNB](https://www.snb.ch/en/publications/research/working-papers/2025/working_paper_2025_03)\] \[[PDF](../files/CavaleriFilippo_DSA.pdf)\] <br>
-   <span style="font-size:14px"> This version: December 2024 </span>
+    <span style="color:rgba(255, 102, 0, 0.8); font-size:14px; font-weight:bold;"> * 2025 Arnold Zellner Doctoral Prize </span><br>
+    <span style="font-size:14px"> This version: December 2024 </span>
    <details><summary>Abstract</summary>
 This paper examines how heterogeneity in investment horizons determines the demand for safe assets, bidding strategies in auctions, and post-auction price dynamics. We model a uniform-price double auction with resale where long-term investors hold assets to maturity, while dealer banks distribute the asset in secondary markets. Pure private (common) values emerge when only long-term investors (dealers) participate. Using unique data on Swiss Treasury bond auctions revealing bidders' identities, our empirical findings support key predictions: (1) substantial heterogeneity in demand schedules, with steeper demand curves for dealer banks; (2) Dealer banks' demand becomes steeper with increased demand risk and bid dispersion; and (3) demand elasticity positively predicts post-auction returns. </details>
 
