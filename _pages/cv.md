@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[This version](../files/CavaleriFilippo_CV.pdf): December 2024 
+[This version](../files/CavaleriFilippo_CV.pdf): October 2025 
 <!---  Coming soon. --->
 
 ## Education
