@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Filippo Cavaleri"
-  avatar           : "cut_headshot"
+  avatar           : "cut_headshot.png"
   bio              : "PhD Student in Financial Economics"
   location         : #"Texas A&M University Mays Business School"
   employer         : "University of Chicago"
