@@ -75,15 +75,15 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-EDGJL39901"
 
 
 # Site Author
 author:
   name             : "Filippo Cavaleri"
-  avatar           : "cut_headshot"
+  avatar           : "cut_headshot.png"
   bio              : "PhD Student in Financial Economics"
   location         : #"Texas A&M University Mays Business School"
   employer         : "University of Chicago"
