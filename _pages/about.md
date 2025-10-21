@@ -14,7 +14,7 @@ I am a PhD student in the [joint program in financial economics](https://financi
 
 **Contact**: fcavaler@chicagobooth.edu
 
-**Research Interests**: Asset Pricing, Macrofinance
+**Research Fields**: Government debt and asset prices, safe assets, term structure and fixed income, macro-finance.
 
 [**Research**](https://filippocavaleri.github.io/research/)
 
