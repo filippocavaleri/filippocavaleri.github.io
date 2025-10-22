@@ -11,6 +11,7 @@ redirect_from:
 Welcome to my research page!
 
 I am a PhD student in the [joint program in financial economics](https://financialeconomics.uchicago.edu/) at the University of Chicago, Booth School of Business and Kenneth C. Griffin Department of Economics. 
+
 I study how government debt, taxation, and financial markets interact in interesting ways. 
 
 Please feel free to reach out anytime with questions or comments.
