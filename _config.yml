@@ -88,7 +88,7 @@ author:
   location         : #"Texas A&M University Mays Business School"
   employer         : "University of Chicago"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "https://scholar.google.com/citations?user=RCW2eTAAAAAJ&hl=en&authuser=2"
+  googlescholar    : "https://scholar.google.com/citations?user=kgGx6NcAAAAJ&hl=en&oi=ao"
   email            : "fcavaler@uchicago.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
