@@ -4,6 +4,10 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## Job Market Paper
+
+1. <span style="color:#0a81e2; font-weight:bold;">  Fiscal Insurance and the Pricing of Government Debt </span> \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603103)\] \[[PDF](../files/CavaleriFilippo_PHMCS.pdf)\]<br>
+   <span style="color:rgba(128, 128, 128, 0.8); font-size:14px; font-weight:bold; font-style:italic;"> * Draft coming soon </span><br>
 
 
 ## Working Papers
