@@ -7,8 +7,9 @@ author_profile: true
 ## Job Market Paper
 
 1. <span style="color:#0a81e2; font-weight:bold;">  Fiscal Insurance and the Pricing of Government Debt </span> \[[PDF](../files/JMP.pdf)\]<br>
-   <span style="color:rgba(128, 128, 128, 0.8); font-size:14px; font-weight:bold; font-style:italic;"> * Draft coming soon </span><br>
-
+   <span style="font-size:14px"> This version: November 2025 </span>
+  <details><summary>Abstract</summary>   
+I model the impact of government debt on bond prices when fiscal policy interacts with uninsurable risks. Debt levels impact asset valuations through future tax adjustments that alter households’ risks and, hence, their pricing kernel. Households’ exposure to uninsurable risks scales with debt levels, but the relation is non-monotonic if tax adjustments amplify redistributive risks. State-contingent debt can provide better insurance than risk-free debt by shifting the distribution of income dispersion across aggregate states. The covariance between taxes and pricing kernels identifies whether further debt issuance improves risk sharing. Debt issuance erodes fiscal insurance and hurts welfare beyond a debt threshold. This debt threshold declines with the level of foreign demand and increases with the progressivity of taxation. Foreign demand weakens fiscal insurance but crowds in domestic bond demand if sufficiently inelastic. In a dynamic setting, fiscal insurance raises interest rates, compresses risk premia, and reduces investment. I show that even in incomplete markets, a version of Ricardian neutrality holds if taxes are lump-sum. My results indicate that debt alone does not improve risk sharing and that supply effects will persist even if government bonds lose their specialness. </details>
 
 ## Working Papers
 
