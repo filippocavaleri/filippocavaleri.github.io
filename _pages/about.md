@@ -14,7 +14,7 @@ I am a PhD student in the [joint program in financial economics](https://financi
 
 I study how government debt, taxation, and financial markets interact in interesting ways. 
 
-<span style="color:#0a81e2; font-weight:bold;"> I am on the 2025-2026 academic job market </span>.
+<span style="color:#0a81e2; font-weight:bold;"> I am on the 2025-2026 academic job market</span>.
 
 Please feel free to reach out anytime with questions or comments.
 
