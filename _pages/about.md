@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my research page!
+**Welcome to my research page**!
 
 I am a PhD student in the [joint program in financial economics](https://financialeconomics.uchicago.edu/) at the University of Chicago, Booth School of Business and Kenneth C. Griffin Department of Economics. 
 
