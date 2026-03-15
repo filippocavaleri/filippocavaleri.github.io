@@ -766,18 +766,54 @@ footer {
   }
 
   /* Content */
+  main {
+    padding: 2rem 1.25rem 3rem;
+  }
+
   .home-grid {
     grid-template-columns: 1fr;
-    gap: 2rem;
+    gap: 1.75rem;
+    justify-items: center;
   }
 
   .profile-photo-wrap {
     position: static;
-    max-width: 250px;
+    max-width: 200px;
+    width: 100%;
+  }
+
+  .bio {
+    width: 100%;
+    text-align: center;
   }
 
   .bio-name {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
+  }
+
+  .bio-title {
+    font-size: 0.85rem;
+  }
+
+  .bio-body {
+    font-size: 0.875rem;
+    text-align: left;
+  }
+
+  .announcement-badge {
+    text-align: left;
+  }
+
+  .interests-label {
+    text-align: left;
+  }
+
+  .interests-list {
+    text-align: left;
+  }
+
+  .social-links {
+    justify-content: center;
   }
 
   .course-table td:nth-child(2) {
