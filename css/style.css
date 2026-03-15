@@ -42,6 +42,7 @@ body {
   color: var(--text);
   background: var(--bg);
   line-height: 1.7;
+  overflow-x: hidden;
 }
 
 a {
@@ -767,53 +768,49 @@ footer {
 
   /* Content */
   main {
-    padding: 2rem 1.25rem 3rem;
+    padding: 1.75rem 1.25rem 3rem;
   }
 
   .home-grid {
     grid-template-columns: 1fr;
     gap: 1.75rem;
-    justify-items: center;
   }
 
   .profile-photo-wrap {
     position: static;
-    max-width: 200px;
-    width: 100%;
+    max-width: 180px;
+    margin: 0 auto;
   }
 
-  .bio {
-    width: 100%;
-    text-align: center;
+  .social-icons {
+    flex-wrap: wrap;
   }
 
   .bio-name {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
+    text-align: center;
   }
 
   .bio-title {
     font-size: 0.85rem;
+    text-align: center;
   }
 
   .bio-body {
     font-size: 0.875rem;
-    text-align: left;
-  }
-
-  .announcement-badge {
-    text-align: left;
+    text-align: justify;
   }
 
   .interests-label {
-    text-align: left;
+    font-size: 0.95rem;
   }
 
-  .interests-list {
-    text-align: left;
+  .interests-list li {
+    font-size: 0.85rem;
   }
 
-  .social-links {
-    justify-content: center;
+  .announcement-badge {
+    font-size: 0.825rem;
   }
 
   .course-table td:nth-child(2) {
