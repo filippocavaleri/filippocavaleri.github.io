@@ -719,7 +719,11 @@ footer {
 }
 
 /* --- Responsive --- */
-@media (max-width: 680px) {
+@media (max-width: 768px) {
+  html {
+    font-size: 15px;
+  }
+
   /* Nav: hamburger dropdown */
   nav {
     height: auto;
@@ -766,54 +770,52 @@ footer {
     font-size: 0.82rem;
   }
 
-  /* Content */
+  /* Home page */
   main {
-    padding: 1.75rem 1.25rem 3rem;
+    padding: 1.5rem 1.25rem 3rem;
   }
 
   .home-grid {
     grid-template-columns: 1fr;
-    gap: 1.75rem;
+    gap: 1.5rem;
+    text-align: center;
   }
 
   .profile-photo-wrap {
     position: static;
-    max-width: 180px;
-    margin: 0 auto;
+    max-width: 170px;
+    justify-self: center;
   }
 
   .social-icons {
     flex-wrap: wrap;
+    justify-content: center;
   }
 
-  .bio-name {
-    font-size: 1.4rem;
-    text-align: center;
-  }
-
-  .bio-title {
-    font-size: 0.85rem;
-    text-align: center;
+  /* Restore left/justified alignment for body content */
+  .bio-body,
+  .announcement-badge,
+  .interests-label,
+  .interests-list,
+  .news-section {
+    text-align: left;
   }
 
   .bio-body {
-    font-size: 0.875rem;
     text-align: justify;
-  }
-
-  .interests-label {
-    font-size: 0.95rem;
-  }
-
-  .interests-list li {
-    font-size: 0.85rem;
-  }
-
-  .announcement-badge {
-    font-size: 0.825rem;
   }
 
   .course-table td:nth-child(2) {
     display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 14px;
+  }
+
+  main {
+    padding: 1.25rem 1rem 2.5rem;
   }
 }
