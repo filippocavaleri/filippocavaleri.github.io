@@ -20,9 +20,9 @@
   --bg:             #ffffff;
   --bg-subtle:      #fafaf9;
   --border:         #e4e4e7;
-  --award:          #b5601f;
-  --award-bg:       #fdf1e6;
-  --award-border:   #f2d3ae;
+  --award:          #783b0f;
+  --award-bg:       #fef3c7;
+  --award-border:   #fde68a;
 
   --serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
   --sans:  'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -476,19 +476,23 @@ main {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0.4rem;
+  gap: 0;
   margin-bottom: 0.6rem;
 }
 
 .award-tag {
-  font-size: 0.72rem;
-  font-weight: 600;
-  color: var(--award);
-  background: var(--award-bg);
-  border: 1px solid var(--award-border);
-  padding: 0.15rem 0.65rem;
-  border-radius: 1rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  font-style: italic;
+  color: #810c0cd4;
   letter-spacing: 0.01em;
+}
+
+.award-tag + .award-tag::before {
+  content: '·';
+  margin: 0 0.45rem;
+  color: var(--text-muted);
+  font-style: normal;
 }
 
 .paper-links {
