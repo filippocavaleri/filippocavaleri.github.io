@@ -25,6 +25,7 @@ All 5 HTML pages share the same `<head>` boilerplate (meta tags, Google Analytic
 - Plain HTML/CSS/JS, no framework or build process. Edit files directly.
 - Keep edits minimal and consistent with existing style/structure.
 - `og:image` and `twitter:image` meta tags in every page's `<head>` point to the profile photo — keep them in sync with the actual photo used in `index.html`.
+- **Do not add unrequested visual flair or restyling** (badges, pills, colored backgrounds, emojis, new decorative elements) beyond exactly what's asked. When a design task is ambiguous, implement the literal ask and propose extras separately rather than adding them directly — the user has explicitly pushed back on this before (e.g. turning plain-text award tags into colored pill badges without being asked).
 
 ## Git workflow
 
