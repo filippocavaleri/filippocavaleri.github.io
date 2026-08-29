@@ -147,6 +147,11 @@ main {
   align-items: start;
 }
 
+/* Let grid tracks shrink below their content's min-content width */
+.home-grid > * {
+  min-width: 0;
+}
+
 .profile-photo-wrap {
   position: sticky;
   top: calc(var(--nav-h) + 2rem);
@@ -833,6 +838,16 @@ footer {
   .social-icons {
     flex-wrap: wrap;
     justify-content: center;
+  }
+
+  /* News items wrap instead of truncating on narrow screens */
+  .news-text {
+    white-space: normal;
+    text-overflow: clip;
+  }
+
+  .news-list {
+    max-height: 11rem;
   }
 
   /* Restore left/justified alignment for body content */
