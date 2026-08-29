@@ -669,15 +669,17 @@ main {
   gap: 0.5rem 0.9rem;
 }
 
-/* Fixed title column so the Slides buttons line up across all entries;
-   on narrow screens the title takes the full width and the button wraps. */
 .discussion-head .discussion-paper-title {
-  flex: 0 0 35.5rem;
-  max-width: 100%;
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
+/* Pinned to the right edge of the card so the buttons line up in a
+   single column across all entries, whatever the title length. */
 .discussion-head .paper-links {
   margin-bottom: 0;
+  margin-left: auto;
+  flex: 0 0 auto;
 }
 
 .discussion-venue {
